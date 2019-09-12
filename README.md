@@ -10,7 +10,10 @@ Include your responses to the bold questions below. Include snippets of code tha
  
 **a. What voltage level do you need to power your display?**
 
+5V
+
 **b. What voltage level do you need to power the display backlight?**
+3.3V
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
