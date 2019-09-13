@@ -21,6 +21,7 @@ Include your responses to the bold questions below. Include snippets of code tha
 Accidentally wired the backlight to 5v because I had hooked all of my + rails up to 5v. I separated out the 5v and 3.3v outputs coming from the arduino by dedicating one rail to 5v and the other 3.3.v.
 
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+
 lcd.print("hello, World!") 
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
