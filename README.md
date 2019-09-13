@@ -68,7 +68,10 @@ void loop() {
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
- 
+```
+tone(8, melody[thisNote], noteDuration/2);
+int pauseBetweenNotes = (noteDuration * 1.30)/2;
+```
 **b. What song is playing?**
 
 
