@@ -66,6 +66,7 @@ void loop() {
 
 **Upload a video of your working rotary encoder here.**
 
+[encoder video](IMG_0738.MOV)
 
 ## Part D. Make your Arduino sing!
 
