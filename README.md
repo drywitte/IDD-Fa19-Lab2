@@ -77,6 +77,7 @@ int pauseBetweenNotes = (noteDuration * 1.30)/2;
 ```
 **b. What song is playing?**
 
+Star wars theme song.
 
 ## Part E. Make your own timer
 
