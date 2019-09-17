@@ -86,7 +86,8 @@ Star wars theme song.
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
-[Custom Timer](https://photos.app.goo.gl/ZeL2ZBeRLsv76yfQA)
+[Shot Clock](https://photos.app.goo.gl/ZeL2ZBeRLsv76yfQA)
+The device is a shot clock (for basketball or recycling). Turning the rotary encoder will either increase or decrease the time on the shot clock (with a floor at 0). After 2 seconds of inactivity the shot clock will begin a 3 second countdown to the start of the game, unless the timer is adjusted. While the shot clock is active the device will play the jeaopardy theme song. When the timer is up, the device will play a buzzer and display "Game Over, Man!".
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
 
