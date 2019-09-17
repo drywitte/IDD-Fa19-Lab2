@@ -86,6 +86,7 @@ Star wars theme song.
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
+[Custom Timer](https://photos.app.goo.gl/ZeL2ZBeRLsv76yfQA)
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
 
